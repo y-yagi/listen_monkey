@@ -2,6 +2,9 @@
 
 This gem provides :monkey: patches for `listen` gem.
 
+[![Gem Version](https://badge.fury.io/rb/listen_monkey.svg)](http://badge.fury.io/rb/listen_monkey)
+[![Build Status](https://circleci.com/gh/y-yagi/listen_monkey.svg?style=svg)](https://circleci.com/gh/y-yagi/listen_monkey)
+
 ### `:recursive` option
 
 **CAUTION: This option works only in Linux.**
